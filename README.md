@@ -45,7 +45,8 @@ classnames
 
 1. Clone the repository
 
-git clone https://github.com/your-username/codepen-clone.git
+git clone https://github.com/tanisha259/Codepen-1.git
+
 cd codepen-clone
 
 2. Install dependencies
